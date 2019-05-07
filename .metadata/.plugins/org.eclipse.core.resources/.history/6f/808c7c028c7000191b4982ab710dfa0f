@@ -1,0 +1,5 @@
+package com.capgemini.movierating.entity;
+
+public class Rating {
+
+}

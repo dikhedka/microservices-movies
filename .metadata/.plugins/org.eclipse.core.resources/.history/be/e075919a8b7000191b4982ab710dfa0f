@@ -1,0 +1,24 @@
+package com.capgemini.movieinfo.movieinfoservice.entity;
+
+public class Movie {
+	private int movieId;
+	private String movieTitle;
+	private String movieDescription;
+	
+	public Movie() {
+		super();
+		
+	}
+
+	public Movie(int movieId, String movieTitle, String movieDescription) {
+		super();
+		this.movieId = movieId;
+		this.movieTitle = movieTitle;
+		this.movieDescription = movieDescription;
+	}
+	
+	
+	
+	
+
+}
